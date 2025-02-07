@@ -62,12 +62,13 @@ console.log(template_Strings);
 
 /* +++ HW3 +++ */
 
-// let number = 10369;
+ let number = 10369;
+ console.log((number).toString().split('').join(' '))
 // number =`1 0 3 6 9`
 // console.log(number)
 // let number_2 = `1\t0\t3\t6\t9`
 // console.log(number_2)
-// console.log((10369).toString().split('').join(' '))
+
 // let num_Str = '10369';
 // console.log(num_Str.length)//5;
 // console.log(num_Str[0]+' '+num_Str[1]+' '+num_Str[2]+" "+num_Str[3]+' '+num_Str[4]);
